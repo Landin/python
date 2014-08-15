@@ -6,6 +6,6 @@ ser.port = 0
 
 ser
 
-ser.open()
-ser.isopen()
+#ser.open()
+#ser.isopen()
 
