@@ -1,11 +1,7 @@
-{
-	id: 404,
-	name: 'Ost'
-	lastScan: '2014-01-02',
-	extra: {
-		meta: 33
-	}
-}
-
-//data.id
-//data.extra.meta
+[
+    {
+        "id": "404",
+        "name": "Ost",
+        "lastScan": "2014-01-02"
+    }
+]
